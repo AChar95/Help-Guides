@@ -8,3 +8,5 @@ This is a file that can be located in the /etc folder, this is useful when mount
 
 It is important to remember that the new drive should have file system in order to be utilised correctly by the operating system.
 To do this use the following command ```mksf.ext4 (device_name)```,
+
+
